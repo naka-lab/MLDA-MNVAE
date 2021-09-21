@@ -22,4 +22,4 @@ export TF_FORCE_GPU_ALLOW_GROWTH=true
 ```
 
 # Citation
-Under review. 
+Ryo Kuniyasu, Tomoaki Nakamura, Tadahiro Taniguchi, Takayuki Nagai, "Robot Concept Acquisition Based on Interaction between Probabilistic and Deep Generative Models", Frontiers in Computer Science, Vol. 3, Article 618069, pp. 1-14, Sep. 2021
